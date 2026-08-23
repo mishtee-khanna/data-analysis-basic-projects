@@ -1,4 +1,4 @@
-"""Send a desktop notification every hour to encourage drinking water."""
+# Send a desktop notification every hour to encourage drinking water
 
 import time
 
