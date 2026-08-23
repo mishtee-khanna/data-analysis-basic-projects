@@ -34,5 +34,10 @@ def water_reminder() -> None:
 
 if __name__ == "__main__":
     water_reminder()
+<<<<<<< HEAD
 
 
+=======
+
+
+>>>>>>> 0ad6dd1cbbfaf5c711255cb5d9ecf605b8f1f229
